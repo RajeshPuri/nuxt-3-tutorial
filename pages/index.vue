@@ -6,6 +6,17 @@
   </div>
 </template>
 
+<script>
+import {ref} from "vue"
+export default {
+  setup () {
+    
+
+    return {}
+  }
+}
+</script>
+
 <style scoped>
   h2 {
     margin-bottom: 20px;
@@ -15,3 +26,4 @@
     margin: 20px 0;
   }
 </style>
+

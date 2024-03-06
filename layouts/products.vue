@@ -6,7 +6,7 @@
       </nav>
     </header>
     <div class="container mx-auto p-4">
-      <slot />
+      <!-- <slot name="test" /> -->
     </div>
     <footer class="container mx-auto p-4 flex justify-between border-t-2">
       <ul class="flex gap-4">
